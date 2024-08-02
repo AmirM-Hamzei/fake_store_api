@@ -1,0 +1,11 @@
+{
+  "name": "amirmh_session-04-web2_exercise_03_api-flex",
+  "version": "1.0.0",
+  "description": "Exercise-03-web2 (API + Flex)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Mahmood Hamzei",
+  "license": "ISC"
+}
